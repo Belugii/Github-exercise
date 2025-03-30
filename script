@@ -1,2 +1,4 @@
 def hello():
     print("Hello, GitHub!")
+def goodbye():
+    print("Goodbye, GitHub!")
